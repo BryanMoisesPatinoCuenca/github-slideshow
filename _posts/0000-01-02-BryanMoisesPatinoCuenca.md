@@ -2,6 +2,10 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Your issues
+
 Use the left arrow to go back!
+
+Hi
+
 
